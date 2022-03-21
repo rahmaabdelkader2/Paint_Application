@@ -26,10 +26,7 @@ Draw shapes, fill them with color or erase them. Rescale, and zoom your picture.
 * Open/Save image in various formats
 * Cut/Copy/Paste image
 
-## Screenshots
-<p align="center">
- <img src="./Screenshots/paintqt.jpg" alt="Screenshot form PaintQT application"/>
-</p>
+
 
 ## Technologies
 * Qt Creator 4.11.0
